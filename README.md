@@ -19,7 +19,7 @@
 <h4 align="left">📚 Biblioteca de Componentes</h4>
 <h5 align="left">- Nesse projeto estou implementando uma biblioteca de componentes para ser utilizada nos meus outros projetos pessoais, o intuito dessa lib é abstrair os componentes dos aplicativos e simplificar a manutenção.</h5>
 
-https://github.com/brunofariasd/portfolio/assets/56841318/95cd4484-8552-4f36-8427-6f222dde3174
+https://github.com/brunofariasd/portfolio/assets/56841318/7fabab10-35fc-41e1-82b7-9a858d7fb8d3
 
     Como principais tecnologias estou utilizando:
     
@@ -34,7 +34,7 @@ https://github.com/brunofariasd/portfolio/assets/56841318/95cd4484-8552-4f36-842
 <h4 align="left">🍰 Template Basico com Login</h4>
 <h5 align="left">- Nesse projeto estou implementando um template que será utilizado como um ponto de partida na criação de novos projetos.</h5>
 
-![Template_](https://github.com/brunofariasd/portfolio/assets/56841318/707264cd-8ab6-4b3e-8c15-6601b26736d3)
+https://github.com/brunofariasd/portfolio/assets/56841318/49bf34aa-cf21-4a20-b6c5-879dc5213d24
 
     Como principais tecnologias estou utilizando:
     
