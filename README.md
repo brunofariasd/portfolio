@@ -14,7 +14,7 @@
   - JEST | TDD | Clean Architecture
   - Git
 
-<h2 align="left">👨‍💻 Alguns projetos privados em que estou trabalhando mas estarei mostrando aqui:</h2>
+<h3 align="left">👨‍💻 Alguns projetos privados em que estou trabalhando mas estarei mostrando aqui:</h3>
 
 <h4 align="left">📚 Biblioteca de Componentes</h4>
 <h5 align="left">- Nesse projeto estou implementando uma biblioteca de componentes para ser utilizada nos meus outros projetos pessoais, o intuito dessa lib é abstrair os componentes dos aplicativos e simplificar a manutenção.</h5>
@@ -43,7 +43,7 @@ https://github.com/brunofariasd/portfolio/assets/56841318/49bf34aa-cf21-4a20-b6c
     - redux
     - react-i18next, entre outros.
     
-<h2 align="left">:rocket: Alguns aplicativos em produção:</h2>
+<h3 align="left">:rocket: Alguns aplicativos em produção:</h3>
 
 **Download Saver para Twitter**
 <p align="left">
