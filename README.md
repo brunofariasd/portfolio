@@ -29,7 +29,7 @@ https://github.com/brunofariasd/portfolio/assets/56841318/7fabab10-35fc-41e1-82b
     - styled-system
     - storybook
     - rollup
-    - react-native-vector-icons, react-native-reanimated, entre outros
+    - react-native-vector-icons, react-native-reanimated, entre outras tecnologias.
     
 <h4 align="left">🍰 Template Basico com Login</h4>
 <h5 align="left">- Nesse projeto estou implementando um template que será utilizado como um ponto de partida na criação de novos projetos.</h5>
@@ -41,7 +41,7 @@ https://github.com/brunofariasd/portfolio/assets/56841318/49bf34aa-cf21-4a20-b6c
     - react native
     - typescript
     - redux
-    - react-i18next, entre outros.
+    - react-i18next, entre outras tecnologias.
     
 <h2 align="left">:rocket: Alguns aplicativos em produção:</h2>
 
