@@ -42,6 +42,25 @@ https://github.com/brunofariasd/portfolio/assets/56841318/49bf34aa-cf21-4a20-b6c
     - typescript
     - redux
     - react-i18next, entre outras tecnologias.
+
+<h4 align="left">🏆 Lançamento EduPay Shop (Agenda Edu) </h4>
+<h5 align="left">- Atuei em vários times na empresa, sendo um deles o Time Marketplace. Nesse time atuei como o único desenvolvedor mobile junto a um designer e PM, onde colaborei nas discussões e tomadas de decisões de tecnologias utilizadas, designer e regras de negócios para o lançamento de um novo produto construído totalmente do zero e que teve sua prototipagem e lançamento completo feito em cerca de 3 meses.</h5>
+<h5 align="left">- Como resultado, o produto que se tratava de um e-commerce em menos de 6 meses rodando foi capaz de gerar em torno de 600 mil reais de TPV.</h5>
+
+Clique [aqui](https://edupay.com.br/shop) para conhecer o projeto do EduPay Shop.
+
+Clique [aqui](https://strapi.io/) para conhecer o Strapi.
+
+    Como principais tecnologias utilizei:
+    
+    - react native
+    - typescript
+    - javascript
+    - Strapi
+    - redux saga
+    - CI / CD
+    - jest
+    - react-i18next, entre outras tecnologias.
     
 <h2 align="left">:rocket: Alguns aplicativos em produção:</h2>
 
