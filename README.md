@@ -19,7 +19,7 @@
 <h4 align="left">📚 Biblioteca de Componentes</h4>
 <h5 align="left">- Nesse projeto estou implementando uma biblioteca de componentes para ser utilizada nos meus outros projetos pessoais, o intuito dessa lib é abstrair os componentes dos aplicativos e simplificar a manutenção.</h5>
 
-https://github.com/brunofariasd/portfolio/assets/56841318/7fabab10-35fc-41e1-82b7-9a858d7fb8d3
+<!-- https://github.com/brunofariasd/portfolio/assets/56841318/7fabab10-35fc-41e1-82b7-9a858d7fb8d3 -->
 
     Como principais tecnologias estou utilizando:
     
