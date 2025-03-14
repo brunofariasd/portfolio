@@ -1,72 +1,73 @@
-<h1 align="center">Olá 👋, seja bem-vindo(a) ao meu Portfólio pessoal.</h1>
+<h1 align="center">Hello 👋, welcome to my personal Portfolio.</h1>
 
-<h3 align="center">Aqui estarão listados alguns dos meu projetos pessoais, e alguns cases de sucesso ao longo da minha carreira.</h3>
+<h3 align="center">Here you will find some of my personal projects and some success stories from my career.</h3>
 
-<h3 align="left">🔥 Principais linguagens e ferramentas:</h3>
+<h3 align="left">🔥 Main languages and tools:</h3>
 
   - React Native
+  - Node
   - React
-  - Typescript
-  - Javascript
-  - Redux
-  - Styled-components
+  - JavaScript
+  - Ruby
+  - Firebase
+  - Fastlane
   - CI / CD
   - JEST | TDD | Clean Architecture
   - Git
 
-<h2 align="left">👨‍💻 Alguns projetos privados em que estou trabalhando mas estarei mostrando aqui:</h2>
+<h2 align="left">👨‍💻 Some private projects I'm working on, but will showcase here:</h2>
 
-<h3 align="left">📚 Biblioteca de Componentes</h3>
-<p align="left">Nesse projeto estou implementando uma biblioteca de componentes para ser utilizada nos meus outros projetos pessoais, o intuito dessa lib é abstrair os componentes dos aplicativos e simplificar a manutenção.</p>
+<h3 align="left">📚 Component Library</h3>
+<p align="left">In this project, I am implementing a component library to be used in my other personal projects. The goal of this library is to abstract the app components and simplify maintenance.</p>
 
 https://github.com/brunofariasd/portfolio/assets/56841318/804c266b-8eba-4fe9-a6d2-ebe68247a20a
 
-    Como principais tecnologias estou utilizando:
+    The main technologies I'm using are:
     
-    - react native
-    - typescript
-    - styled-components
-    - styled-system
-    - storybook
-    - rollup
-    - react-native-vector-icons, react-native-reanimated, entre outras tecnologias.
+    - React Native
+    - Typescript
+    - Styled-components
+    - Styled-system
+    - Storybook
+    - Rollup
+    - React-native-vector-icons, React-native-reanimated, among other technologies.
     
-<h3 align="left">🍰 Template Basico com Login</h3>
-<p align="left">Nesse projeto estou implementando um template que será utilizado como um ponto de partida na criação de novos projetos.</p>
+<h3 align="left">🍰 Basic Template with Login</h3>
+<p align="left">In this project, I am implementing a template that will be used as a starting point for creating new projects.</p>
 
 https://github.com/brunofariasd/portfolio/assets/56841318/49bf34aa-cf21-4a20-b6c5-879dc5213d24
 
-    Como principais tecnologias estou utilizando:
+    The main technologies I'm using are:
     
-    - react native
-    - typescript
-    - redux
-    - react-i18next, entre outras tecnologias.
+    - React Native
+    - Typescript
+    - Redux
+    - React-i18next, among other technologies.
 
-<h3 align="left">🏆 Lançamento EduPay Shop (Agenda Edu) </h3>
-<p align="left">Atuei em vários times na empresa, sendo um deles o Time Marketplace. Nesse time atuei como o único desenvolvedor mobile junto a um designer e PM, onde colaborei nas discussões e tomadas de decisões de tecnologias utilizadas, designer e regras de negócios para o lançamento de um novo produto construído totalmente do zero e que teve sua prototipagem e lançamento completo feito em cerca de 3 meses.</p>
-<p align="left">Como não tínhamos backend na squad e queríamos validar a proposta o mais rápido possível sem ter que construir uma estrutura na nossa base de dados, então decidimos utilizar o Strapi que é um CMS open-source e headless. Ele nos permitiu criar uma API em javascript para ser consumida pela aplicação mobile, tudo através de uma interface gráfica de usuário, simples e direta.</p>
+<h3 align="left">🏆 Launch of EduPay Shop (Agenda Edu)</h3>
+<p align="left">I worked in several teams at the company, one of them being the Marketplace Team. In this team, I acted as the sole mobile developer alongside a designer and PM, where I collaborated in discussions and decision-making regarding technologies, design, and business rules for launching a new product built entirely from scratch. The prototyping and full launch were completed in about 3 months.</p>
+<p align="left">Since we didn't have a backend in our squad and wanted to validate the proposal as quickly as possible without building an entire database structure, we decided to use Strapi, an open-source headless CMS. It allowed us to create a JavaScript API to be consumed by the mobile application, all through a simple and direct graphical user interface.</p>
 
-**<p align="left">Como resultado, o produto que se tratava de um e-commerce em menos de 6 meses rodando foi capaz de gerar em torno de 600 mil reais de TPV.</p>**
+**<p align="left">As a result, the product, which was an e-commerce platform, generated around R$600,000 in TPV within its first 6 months of operation.</p>**
 
-Clique [aqui](https://edupay.com.br/shop) para conhecer o projeto do EduPay Shop.
+Click [here](https://edupay.com.br/shop) to learn more about the EduPay Shop project.
 
-Clique [aqui](https://strapi.io/) para conhecer o Strapi.
+Click [here](https://strapi.io/) to learn more about Strapi.
 
-    Como principais tecnologias utilizei:
+    The main technologies I used are:
     
-    - react native
-    - typescript
-    - javascript
+    - React Native
+    - Typescript
+    - Javascript
     - Strapi
-    - redux saga
+    - Redux Saga
     - CI / CD
-    - jest
-    - react-i18next, entre outras tecnologias.
+    - Jest
+    - React-i18next, among other technologies.
     
-<h2 align="left">:rocket: Alguns aplicativos em produção:</h2>
+<h2 align="left">:rocket: Some apps in production:</h2>
 
-**Download Saver para Twitter**
+**Download Saver for Twitter**
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.twt_saver" target="blank">
     <img align="center" src="https://play.google.com/intl/pt_br/badges/static/images/badges/pt-br_badge_web_generic.png"
@@ -74,7 +75,7 @@ Clique [aqui](https://strapi.io/) para conhecer o Strapi.
   </a>
 </p>
 
-**Status Saver para whatsapp**
+**Status Saver for WhatsApp**
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.wpp.status_saver" target="blank">
     <img align="center" src="https://play.google.com/intl/pt_br/badges/static/images/badges/pt-br_badge_web_generic.png"
