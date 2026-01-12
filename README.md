@@ -17,6 +17,28 @@
 
 <h2 align="left">👨‍💻 Some private projects I'm working on, but will showcase here:</h2>
 
+<h3 align="left">🍎 Snap Drai - AI Nutritional Assistant</h3>
+<p align="left">
+  I idealized and developed this mobile application to revolutionize diet tracking by eliminating manual data entry. The app utilizes <strong>Multimodal Generative AI</strong> to analyze meals through real-time images and voice commands, automatically calculating calories and macronutrients. Additionally, I implemented a local notification system for hydration reminders to increase daily user retention.
+</p>
+
+<p align="left">
+  <a href="https://play.google.com/store/apps/dev?id=7455642269620120824" target="_blank">
+    <img align="center" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60" />
+  </a>
+  <a href="https://apps.apple.com/us/developer/thalison-bruno-de-farias/id1852352251" target="_blank">
+    <img align="center" src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Download on the App Store" height="60" style="padding: 12px" />
+  </a>
+</p>
+
+    The main technologies I used are:
+    
+    - Mobile & Core: React Native (CLI), TypeScript, NativeWind (Tailwind CSS)
+    - AI & Backend: Google Gemini Integration (Multimodal AI), Firebase Auth
+    - State & Storage: Redux Toolkit (RTK), AsyncStorage (Local-first)
+    - Monetization & Growth: RevenueCat (Subscriptions), Google AdMob, OneSignal/Notifee
+    - DevOps: Fastlane, CircleCI, Google Play Console & App Store Connect
+    
 <h3 align="left">📚 Component Library</h3>
 <p align="left">In this project, I am implementing a component library to be used in my other personal projects. The goal of this library is to abstract the app components and simplify maintenance.</p>
 
@@ -83,17 +105,9 @@ Click [here](https://strapi.io/) to learn more about Strapi.
   </a>
 </p>
 
-**IG Download Saver**
-<p align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.download_social_manager" target="blank">
-    <img align="center" src="https://play.google.com/intl/pt_br/badges/static/images/badges/pt-br_badge_web_generic.png"
-    alt="https://play.google.com/store/apps/details?id=com.download_social_manager" height="80" width="210" />
-  </a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/bruno-farias-109b21161/" target="blank">
+  <a href="https://www.linkedin.com/in/bruno-farias-109b21161/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bruno-farias-109b21161/" height="30" width="40" />
   </a>
 </p>
