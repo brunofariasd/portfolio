@@ -23,10 +23,10 @@
 </p>
 
 <p align="left">
-  <a href="https://play.google.com/store/apps/dev?id=7455642269620120824" target="_blank">
+  <a href="https://play.google.com/store/apps/details?id=com.kcaldrai" target="_blank">
     <img align="center" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60" />
   </a>
-  <a href="https://apps.apple.com/us/developer/thalison-bruno-de-farias/id1852352251" target="_blank">
+  <a href="https://apps.apple.com/us/app/snap-drai-calorie-counter/id6755162989" target="_blank">
     <img align="center" src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Download on the App Store" height="60" style="padding: 12px" />
   </a>
 </p>
@@ -91,7 +91,7 @@ Click [here](https://strapi.io/) to learn more about Strapi.
 
 **Download Saver for Twitter**
 <p align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.twt_saver" target="blank">
+  <a href="https://play.google.com/store/apps/details?id=com.twt_saver" target="_blank">
     <img align="center" src="https://play.google.com/intl/pt_br/badges/static/images/badges/pt-br_badge_web_generic.png"
     alt="https://play.google.com/store/apps/details?id=com.twt_saver" height="80" width="210" />
   </a>
@@ -99,7 +99,7 @@ Click [here](https://strapi.io/) to learn more about Strapi.
 
 **Status Saver for WhatsApp**
 <p align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.wpp.status_saver" target="blank">
+  <a href="https://play.google.com/store/apps/details?id=com.wpp.status_saver" target="_blank">
     <img align="center" src="https://play.google.com/intl/pt_br/badges/static/images/badges/pt-br_badge_web_generic.png"
     alt="https://play.google.com/store/apps/details?id=com.wpp.status_saver" height="80" width="210" />
   </a>
@@ -107,7 +107,7 @@ Click [here](https://strapi.io/) to learn more about Strapi.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/bruno-farias-109b21161/" target="blank">
+  <a href="https://www.linkedin.com/in/bruno-farias-109b21161/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bruno-farias-109b21161/" height="30" width="40" />
   </a>
 </p>
