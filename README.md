@@ -87,21 +87,19 @@ Click [here](https://strapi.io/) to learn more about Strapi.
     - Jest
     - React-i18next, among other technologies.
     
-<h2 align="left">:rocket: Some apps in production:</h2>
+<h2 align="left">:rocket: Some other apps in production:</h2>
 
-**Download Saver for Twitter**
+**Google Play Store Developer Profile**
 <p align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.twt_saver" target="_blank">
-    <img align="center" src="https://play.google.com/intl/pt_br/badges/static/images/badges/pt-br_badge_web_generic.png"
-    alt="https://play.google.com/store/apps/details?id=com.twt_saver" height="80" width="210" />
+  <a href="https://play.google.com/store/apps/dev?id=7455642269620120824" target="_blank">
+    <img align="center" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60" />
   </a>
 </p>
 
-**Status Saver for WhatsApp**
+**Apple Store Developer Profile**
 <p align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.wpp.status_saver" target="_blank">
-    <img align="center" src="https://play.google.com/intl/pt_br/badges/static/images/badges/pt-br_badge_web_generic.png"
-    alt="https://play.google.com/store/apps/details?id=com.wpp.status_saver" height="80" width="210" />
+  <a href="https://apps.apple.com/us/developer/thalison-bruno-de-farias/id1852352251" target="_blank">
+    <img align="center" src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Download on the App Store" height="60" style="padding: 12px" />
   </a>
 </p>
 
