@@ -38,7 +38,9 @@
     - State & Storage: Redux Toolkit (RTK), AsyncStorage (Local-first)
     - Monetization & Growth: RevenueCat (Subscriptions), Google AdMob, OneSignal/Notifee
     - DevOps: Fastlane, CircleCI, Google Play Console & App Store Connect
-    
+
+https://github.com/user-attachments/assets/64291fd1-e7c5-4778-b42d-4670788f3931
+
 <h3 align="left">📚 Component Library</h3>
 <p align="left">In this project, I am implementing a component library to be used in my other personal projects. The goal of this library is to abstract the app components and simplify maintenance.</p>
 
