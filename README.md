@@ -41,6 +41,11 @@
 
 https://github.com/user-attachments/assets/64291fd1-e7c5-4778-b42d-4670788f3931
 
+<h3 align="left">[NEW] Fridge Chef</h3>
+
+https://github.com/user-attachments/assets/2a090190-6f62-4d2c-9a5c-9b3288b2c076
+
+
 <h3 align="left">📚 Component Library</h3>
 <p align="left">In this project, I am implementing a component library to be used in my other personal projects. The goal of this library is to abstract the app components and simplify maintenance.</p>
 
