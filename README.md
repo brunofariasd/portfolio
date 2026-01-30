@@ -39,11 +39,14 @@
     - Monetization & Growth: RevenueCat (Subscriptions), Google AdMob, OneSignal/Notifee
     - DevOps: Fastlane, CircleCI, Google Play Console & App Store Connect
 
-https://github.com/user-attachments/assets/64291fd1-e7c5-4778-b42d-4670788f3931
+https://github.com/user-attachments/assets/1e8ba5d0-b0ff-4227-8f84-0768f9186476
 
-<h3 align="left">[NEW] Fridge Chef</h3>
+<h3 align="left">👨‍🍳 [NEW]Fridge Chef:</h3>
+<p align="left">
+  Don't know what to cook? Take a picture of the raw ingredients in your fridge/pantry and the AI ​​will suggest healthy recipes that fit your macros, with complete preparation instructions.
+</p>
 
-https://github.com/user-attachments/assets/2a090190-6f62-4d2c-9a5c-9b3288b2c076
+https://github.com/user-attachments/assets/1cecf889-2b10-47d3-8500-ed5f40dd0d80
 
 
 <h3 align="left">📚 Component Library</h3>
